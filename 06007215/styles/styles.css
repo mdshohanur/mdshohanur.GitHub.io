@@ -1,0 +1,181 @@
+*
+{
+    margin :0px; 
+    padding: 0px;
+}
+#profile
+{
+    font-size: 40px;
+    font-style: normal;
+    
+    
+    margin-left: 600px;
+}
+.n
+{
+    width: 100%;
+}
+.k
+{
+    width: 1400px;
+    margin left: 40px;
+    
+}
+.dark
+{
+    background-color: black;
+    color: white;
+    height: 35px;
+}
+#y
+{
+    height: 40px;
+    line-height: 40px; 
+}
+ul 
+{
+    
+}
+ul li
+{
+    width:200px;
+    display: inline-block;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+}
+ul li a
+{
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+ul li:hover
+{
+    background-color: blue;
+}
+
+#image
+{
+    border:color black;
+    float:right;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-right: 125px;
+}
+#about
+{
+    font-size: 25px;
+    margin-left: 80px;
+    
+}
+#l
+{
+    font-size: 30px;
+    margin-left: 40px;
+    
+}
+#education
+{
+    margin-left: 40px;
+    font-size: 25px;
+    
+
+}
+#font3
+{
+    font-size: 30px;
+}
+#hobby
+{
+    margin-left: 40px;
+    font-size: 25px;  
+}
+#font4
+{
+    font-size: 30px; 
+}
+#act
+{
+    margin-left: 60px;
+    font-size: 25px;  
+}
+#font5
+{
+    font-size: 30px;
+    margin-left:-30px;
+     
+}
+#contact
+{
+    margin-left: 30px;
+    font-size: 25px;  
+      
+}
+#font6
+{
+    font-size: 30px;  
+}
+#skills
+{
+    margin-left: 30px;
+    font-size: 25px;  
+        
+}
+#font7
+{
+    font-size: 30px;     
+}
+#color
+{
+background-color: aqua;
+margin-left: 55px;
+
+}
+#line
+{
+    margin-left: 65px;
+    
+}
+#work
+{
+    margin-left: 75px; 
+    
+}
+#link
+{
+    margin-left: 75px;   
+}
+#good
+{
+    margin-left: 70px;   
+}
+form{
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid black;
+    border-radius: 1em;
+    padding: 1em;
+}
+label{
+    display: inline-block;
+    width: 120px;
+    height: 50px;
+    text-align: right;
+}
+input,textarea{
+    width: 250px;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+input:focus, textarea:focus {
+    border-color: #000;
+}
+textarea {
+    vertical-align: top;
+    height: 5em;
+    resize: vertical;
+}
+button {
+    margin: 50px 0 0 124px;
+}
